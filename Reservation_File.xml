@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<reservations>
+    <reservation>
+        <client_name>Brian Johnes</client_name>
+        <table_number>1</table_number>
+        <item>Greek Salade</item>
+        <quantity>2</quantity>
+        <comment></comment>
+        <time>Fri 17.04.2020 at 08:08:06 PM</time>
+    </reservation>
+    <reservation>
+        <client_name>Brian Johnes</client_name>
+        <table_number>1</table_number>
+        <item>Mushroom Soup</item>
+        <quantity>2</quantity>
+        <comment></comment>
+        <time>Fri 17.04.2020 at 08:08:50 PM</time>
+    </reservation>
+    <reservation>
+        <client_name>Brian Johnes</client_name>
+        <table_number>1</table_number>
+        <item>Beef Steak</item>
+        <quantity>1</quantity>
+        <comment></comment>
+        <time>Fri 17.04.2020 at 08:09:00 PM</time>
+    </reservation>
+    <reservation>
+        <client_name>Brian Johnes</client_name>
+        <table_number>1</table_number>
+        <item>Apple Pie</item>
+        <quantity>3</quantity>
+        <comment></comment>
+        <time>Fri 17.04.2020 at 08:09:08 PM</time>
+    </reservation>
+    <reservation>
+        <client_name>Brian Johnes</client_name>
+        <table_number>5</table_number>
+        <item>Molten Cake</item>
+        <quantity>2</quantity>
+        <comment>carmel</comment>
+        <time>Fri 17.04.2020 at 08:31:56 PM</time>
+    </reservation>
+</reservations>
